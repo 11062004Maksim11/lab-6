@@ -7,7 +7,7 @@ int main()
     SetConsoleOutputCP(1251);
 
     int x;
-    cout << "¬вед≥ть номер оц≥нки: ";
+    cout << "¬вед≥ть номер балу: ";
     cin >> x;
     switch (x)
 
